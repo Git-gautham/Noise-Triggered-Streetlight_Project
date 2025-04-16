@@ -13,7 +13,7 @@ To build an analog circuit that detects high sound levels using a microphone, am
 ## ⚙️ Components Used
 
 - **Condenser Microphone** – Captures ambient sound  
-- **BC547 NPN Transistors** – For signal amplification  
+- **BC107 NPN Transistors** – For signal amplification  
 - **Resistors** – 1kΩ, 10kΩ, 100kΩ, etc.  
 - **Capacitors** – 10µF, 100µF, etc.  
 - **Diodes** – 1N4007 for protection and rectification  
@@ -40,3 +40,29 @@ To build an analog circuit that detects high sound levels using a microphone, am
 
 - **Proteus** – For circuit simulation  
 - **LTspice** – For waveform analysis and analog behavior verification
+
+## 📌 Applications
+
+- Smart city infrastructure
+- Tunnel and highway lighting
+- Emergency response lighting
+- Parking lots and industrial zones
+
+## 🧑‍🎓 Academic Info
+
+**Course**: Analog Circuits  
+**Semester**: 4th  
+**Department**: Electronics and Communication Engineering  
+**Institution**: Model Engineering College
+**Date**: April 2025
+
+---
+
+> **Note**: This is a purely analog circuit implementation — no microcontroller or programming was used.
+
+## 📬 Contact
+
+For queries or suggestions, feel free to reach out via email (gautham.p.nair05@gmail.com) or raise an issue in this repository.
+
+---
+
